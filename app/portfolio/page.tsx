@@ -5,7 +5,7 @@ function PortfolioPage() {
 
     <div className="flex flex-wrap justify-center items-center min-h-screen bg-gray-200 p-9">
 
-      <h1 className=" text-center text-2xl font-semibold ">Welcome To <span className="text-orange-600">Portfolio
+      <h1 className=" text-center text-2xl font-semibold text-black">Welcome To <span className="text-orange-600">Portfolio
       </span>
       </h1>
       <h3></h3>
