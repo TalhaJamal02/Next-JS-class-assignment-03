@@ -28,7 +28,7 @@ export default function Home() {
         </div>
       </aside>
 
-      <h1 className="text-center text-xl sm:text-3xl py-8 sm:py-10 font-medium">
+      <h1 className="text-center text-xl text-black sm:text-3xl py-8 sm:py-10 font-medium">
         Every adventure begins with a single step into the unknown.
       </h1>
     </div>
