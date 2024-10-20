@@ -54,7 +54,7 @@ const Navbar = () => {
             className="hidden justify-between items-center w-full lg:flex lg:w-auto lg:order-1"
             id="desktop-menu"
           >
-            <ul className="flex flex-col mt-4 font-medium lg:flex-row lg:space-x-8 lg:mt-0">
+            <ul className="flex flex-col mt-4 font-medium lg:flex-row lg:space-x-8 lg:mt-0 text-black">
               <li>
                 <Link
                   href="/"
