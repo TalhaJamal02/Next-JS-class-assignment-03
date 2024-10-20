@@ -95,7 +95,7 @@ const Navbar = () => {
               } flex-col items-center w-full lg:hidden bg-gray-300 backdrop-blur-lg border border-gray-700 rounded-lg p-4`}
             id="mobile-menu"
           >
-            <ul className="flex flex-col font-medium mt-4 space-y-4">
+            <ul className="flex flex-col font-medium mt-4 space-y-4 text-black">
               <li>
                 <Link
                   href="/"
