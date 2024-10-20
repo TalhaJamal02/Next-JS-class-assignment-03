@@ -1,7 +1,7 @@
 
 function ContactPage() {
   return (
-    <div className=" flex items-center justify-center flex-col min-h-screen ">
+    <div className=" flex items-center justify-center flex-col min-h-screen bg-gray-100 ">
       <div className=" bg-gray-300 p-10 rounded-lg">
         <h1 className="text-3xl sm:text-4xl text-gray-800 font-extrabold tracking-tight">
           Get in touch:
